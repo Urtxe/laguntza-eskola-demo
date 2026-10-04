@@ -1183,3 +1183,4 @@ section[id] {
     transition: none !important;
   }
 }
+.action-icon{display:inline-block;width:20px;height:20px;flex:none;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}.art-arrow .action-icon{width:1em;height:1em}
